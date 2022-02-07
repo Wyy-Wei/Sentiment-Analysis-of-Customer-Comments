@@ -7,7 +7,9 @@
   <figcaption>Distribution of continuous variables</figcaption>
 </figure>
 
-
-<p align="center">
-  <src="https://user-images.githubusercontent.com/53469433/152709955-ef5239ee-d020-420f-841d-84d51f9ae9cc.png">
-</p>
+<figure>
+  <img align="center"
+  src="https://user-images.githubusercontent.com/53469433/152709955-ef5239ee-d020-420f-841d-84d51f9ae9cc.png"
+  >
+  <figcaption>Distribution of continuous variables</figcaption>
+</figure>
